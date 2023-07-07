@@ -1,4 +1,4 @@
 resources:
-- ./overlays/dev
-- ./overlays/stg
-- ./overlays/prod
+- ./overlays/dev/
+- ./overlays/stg/
+- ./overlays/prod/
